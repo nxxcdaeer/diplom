@@ -21,9 +21,9 @@
     
         <div class="pod_header_main">
                 <div class="pod_header_box_main">
-                    <div class="boxes_main_flex"><a class="text_box_main" href="category.php">Категории</a></div>
-                    <div class="boxes_main_flex"><a class="text_box_main" href="catalog.php">Каталог</a></div>
-                    <div class="boxes_main_flex"><a class="text_box_main" href="vk.com/nxxcdaeer">Поддержка</a></div>
+                    <div class="boxes_main_flex"><a class="text_box_main" href="category.php">КАТЕГОРИИ</a></div>
+                    <div class="boxes_main_flex"><a class="text_box_main" href="catalog.php">КАТАЛОГ</a></div>
+                    <div class="boxes_main_flex"><a class="text_box_main" href="https://vk.com/nxxcdaeer">ПОДДЕРЖКА</a></div>
             </div>
         </div>
 
