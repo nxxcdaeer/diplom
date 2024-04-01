@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+}
+
+/*FONTS*/
+
+@font-face {
+    font-family: "sf-reg";
+    src: url(fonts/SF-Pro-Display-Regular.otf);
+}
+@font-face {
+    font-family: "sf-heavy";
+    src: url(fonts/SF-Pro-Display-Heavy.otf);
+}
+
+a{
+    text-decoration: none;
+}
+
+.all_body{
+    width: 1920px;
+    height: auto;
+    margin: auto;
+}
+
+/* HEADER */
+
+.main_header{
+    background-color: #9ed8b2;
+    display: flex;
+    width: 1920px;
+    height: 92px;
+    margin: auto;
+}
+
+.logo_main{
+    width: 80px;
+    height: 82.75px;
+    margin: auto auto auto 156px;
+}
+
+
+.img_logo_main{
+    width: 80px;
+}
+
+/* POD HEADER */
+
+.pod_header_main{
+    height: 67px;
+    width: 1920px;
+    background-color: #e3f8e7;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.pod_header_box_main{
+    display: flex;
+    justify-content: center;
+}
+
+.boxes_main_flex{
+    padding: 20px;
+    margin: auto 128px;
+}
+
+.text_box_main{
+    text-decoration: none;
+    color:#00704a;
+    font-size: 24px;
+    font-family: "sf-reg";
+}
+
+/* MAIN*/
+
+.main_hits_main{
+    width: 1920px;
+    height: 556px;
+    text-align: center;
+
+}
+.hits_main{
+    width: 340px;
+    font-size: 42px;
+    font-family: "sf-heavy";
+    text-decoration: none;
+    padding: 1px;
+    margin: 72px auto auto 156px;
+    display: flex;
+}
+
+.text_hover_hits_main:hover{
+    transition: 0.2s linear;
+    color:#9ed8b2;
+}
+
+.full_box_hits_products_main{
+    width: 1600px;
+    height: 556px;
+    margin: 72px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.main_hits_products_main{
+    display: grid;
+    justify-content: center;
+}
+
+.hits_products_main{
+    height: 620px;
+    width: 480px;
+    border: solid 2px #9ed8b2;
+    display: flex;
+    margin-left: auto;
+    text-align: center;
+}
+
+.hits_products_main:hover{
+    transition: 0.2s linear;
+    border:solid 2px #006943;
+}
+
+.hits_img_main{
+    width: 480px;
+}
+
+.hits_text_main{
+    font-family: "sf-heavy";
+    font-size: 32px;
+    text-align: center;
+}
+
+.hits_price_main{
+    font-family: "sf-reg";
+    font-size: 24px;
+    text-align: center;
+}
+
+
